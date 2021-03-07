@@ -1,0 +1,11 @@
+Administracion: Es un proceso en el cual un programa o un individuo se encarga de monitorear que el 
+funcionamiento de un proceso siga un curso apropiado. Por ejemplo, los administradores de una pagina web se 
+encargan de que la pagina funcione adecuadamente a todas horas, en nuestro caso, nosotros nos podemos considerar 
+como los administradores de nuestros equipos de computo, pues nosotros decidimos que se le debe hacer a la 
+computadora en que momento (por ejemplo, si es necesario actualizar nuestros controladores, si debemos hacer 
+limpieza y eliminar achivos viejos, etc.)
+
+Gestion: Se refiere al proceso de analizar que partes de un proceso son relevantes y cuales no, con el fin de 
+crear y eliminar procesos para mantener nuestros sistema funcional. Por ejemplo, nuestra computadorea puede ser 
+considerar un gestionador de archivos, nosotros como administradores podemos decidir que archivos debemos dejar 
+como estan, que archivos deben ser eliminados o que archivos deben ser creados y por que.
