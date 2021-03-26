@@ -1,0 +1,14 @@
+Organizacion:
+
+Definicion del diccionario Oxford Languages:
+"Grupo de personas y medios organizados con un fin determinado."
+
+Definicion propia:
+La organización, en torno a la administracion y gestión de centros de computo se refiere a la division de los miembros de una empresa en grupos, a los cuales se les asignan diferentes tareas con el fin de mantener a la organizacion funcionando adecuadamente.
+
+Cuando se piense en contratar gente para trabajar en una empresa, es indispensable definir estos "grupos" para que los aplicantes sepan si califican para ingresar a esta area de la empresa o no. De igual manera, la empresa o el centro de computo debe tener bien claro que funciones deben cumplir los miembros del area de trabajo, asi como que funciones NO deben ser cumplidas (pues resolver esos problemas le pertenece a otra area), es decir, debe organizar tanto las areas de trabajo como a los trabajadores de las areas especificadas.
+
+Ejemplo:
+Imaginese que se quiere crear un area en un centro de computo enfocada a la seguridad. La empresa primero debe definir el por que es necesario organizar a un grupo de personas dedicadas a monitorear los accesos remotos a la empresa (definir cuantos miembros son necesarios para cumplir esta funcion, definir si economicamente se pueden pagar a empleados y si se puede pagar para darles equipos óptimos para la resolucion de esta meta), y una vez que se haya decidido esto se debe plantear que funciones son las que los miembros de esta area estan encargados a realizar, así como que acciones no deben realizar y deben notificar a otra area de la empresa.
+
+De igual manera, la organización se refiere a definir planes de emergencia en caso de que algún ataque informático se lleve a cabo y que acciones se deben llevar a cabo en todas las areas con el fin de mitigar el daño lo mayormente posible.
