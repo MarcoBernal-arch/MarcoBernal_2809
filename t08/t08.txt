@@ -1,0 +1,35 @@
+Formas de operar un centro de computo, ejemplificado:
+
+1.- Computo en la nube
+
+/.- Imaginese un consultorio medico en el cual todas las consultas, citas, pagos y agendas se encuentran almacenadas de manera digital. Sería irrazonable que cada empleado en cada computadora tenga una bitacora diferente, pues esto provocaría empalme de datos o peor aun, confusión.
+
+El computo en la nube aplicado a este ejemplo permite que exista una sola bitacora, la cual se encuentre abierta a todos los operadores del centro de computo y que permita la inmediata actualizacion cada vez que alguien añada un dato a la misma. En esta bitacora es posible integrar quien hizo las consultas, a que hora y quien esta solicitando la edición, consulta, o en casos extremos, la eliminación de datos.
+
+2.- Explotación de sistemas o aplicaciones
+
+/.- Una parte importante de cualquier centro de computo, ya sea en una empresa pequeña o grande, es encontrar fallas dentro del mismo sistema con el fin de corregirlas.
+
+Imaginese que se tiene un sistema que actualmente es perfecto, ningún atacante puede entrar al sistema y es virtualmente imposible conseguir información para ingresar a la red. La explotación de sistemas hace referencia al grupo de personas dentro del centro de computo que deben revisar constantemente que la integridad de su red se mantenga intacta, o en su defecto lo menos vulnerable posible. Una red que es segura e impenetrable hoy no será lo mismo en un par de meses, pues la tecnología avanza a pasos agigantados, por lo cual es necesario un grupo de personas que esten revisando constantemente las condiciones de trabajo tanto a nivel de software como de hardware, asegurandose que sean siempre óptimas y lo menos suceptibles a fallas.
+
+3.- Soporte técnico a usuarios
+
+/.- Cuando se brinda un servicio de cualquier manera a traves de la red, e incluso servicios en físico, siempre existiran dudas y preguntas que los usuarios tendran antes, durante y despues de que se haya brindado el servicio.
+
+Imaginese que el centro de cómputo se encarga de suministrar servicio de internet a una comunidad. Si es necesario dejar de brindar servicio temporalmente para efectuar mentenimiento, evidentemente mas de un usuario estará confundido de por que su servicio de internet dejó de responder y procederá a realizar una queja al servicio proveedor, es aqui entonces donde el trabajo de los que manejan los soportes técnicos entra, y deben informar a los usuarios de absolutamente todo lo que está sucediendo, así como la imediata y satisfactoria solución de dudas y quejas que los usuarios puedan tener.
+
+4.- Instalación física de un centro de computo
+
+/.- Un centro de cómputo no funciona si las instalaciones no son adecuadas. Un centro de computo no se puede establecer afuera en un jardín donde las condiciones climáticas son tan variables. Un centro de cómputo no se puede establecer en un garage pequeño donde las condiciones sean pobres y los cables se encuentren regados por doquier en el piso.
+
+La instalación fisica de centros de computo hace referencia a la planeación, por medio de planos arquitectonicos, de cual va a ser la posición óptima de todos los elementos que conforman el centro de computo, considerando todos los posibles elementos, posibles variables aleatorias y soluciones.
+
+Por ejemplo, un rack de servidores no se puede instalar en una habitación sin ventilación, con un piso hecho de material flamable y con los cables esparcidos alrededor el piso simplemente por que la habitación planteada es muy pequeña y no hay espacio suficiente para poner múltiples computadoras. La instalación física se encarga de encontrar la habitación óptima para el o los racks de servidores, así como la instalación de cables en zonas dificiles de alcanzar para evitar los accidentes humanos (por debajo del piso, dentro de las paredes o en su defecto, cerca del techo de la habitación).
+
+5.- Gestión y administración del propio centro de computo
+
+/.- Todo lo anterior mencionado se puede condensar en un término, la gestión y administración del centro de computo.
+
+Como la persona encargada del centro de computo en sí, es tu elección si quieres que se instale una red que permita el computo en la nube, pues instalar una red asi puede costar dinero, pero tambien es tu elección si quieres una instalación física profesional de todo tu centro de computo, o si crees que tu y tus contactos pueden instalarlos de una manera mas economica.
+
+Gestión y administración se refiere a estar al pendiente de todo lo que ocurre dentro del centro de computo y en su defecto, responder a toda acción que ocurra dentro del mismo, sea una acción positiva o negativa. Si es positiva, la gestión y administración haría referencia a mantener el alto margen de producción y brindaje de servicio, y si la acción es negativa, se busca mitigar los daños lo mayormente posible, pues toda acción tendrá una reacción, aunque algunas reacciones pueden impactar mas que otras.
